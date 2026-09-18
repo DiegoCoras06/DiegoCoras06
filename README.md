@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Diego Alejandro Coras Bendaño 👋
+# ¡Hola! Soy Diego Alejandro Coras Bendaño 
 
 ### Estudiante de Ingeniería de Sistemas | Especialidad en Desarrollo de Software
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoCoras06)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
@@ -16,14 +16,14 @@
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, con especialidad orientada al **Desarrollo de Software**. Me apasiona convertir problemas reales —muchos de ellos de mi propia universidad y comunidad— en soluciones digitales completas: desde la arquitectura hasta la interfaz que usa la gente.
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, con especialidad orientada al **Desarrollo de Software**. Me apasiona convertir problemas reales muchos de ellos de mi propia universidad y comunidad en soluciones digitales completas: desde la arquitectura hasta la interfaz que usa la gente.
 
-- 🎓 Estudiante de Ingeniería de Sistemas — UNSCH
+- 🎓 Estudiante de Ingeniería de Sistemas - UNSCH
 - 🛠️ Especialidad: **Desarrollo de Software** (Full-Stack)
 - 🧠 Explorando activamente **Inteligencia Artificial** y **Machine Learning**
 - 🏗️ Fortaleciendo conocimientos en **arquitectura de software** y **desarrollo web**
 - 🌎 Interesado en proyectos con impacto social y comunitario en Ayacucho, Perú
-- 📍 Ayacucho, Perú
+- Ayacucho, Perú
 
 ---
 
@@ -76,7 +76,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Sa
 
 ## Proyectos destacados
 
-### 🎓 DETECSER — Sistema de detección de riesgo de deserción estudiantil
+### DETECSER — Sistema de detección de riesgo de deserción estudiantil
 Plataforma full-stack para la UNSCH que identifica estudiantes en riesgo de abandono académico mediante un componente de Machine Learning que genera alertas automáticas.
 > **Stack:** FastAPI · React + Vite + Tailwind CSS · PostgreSQL (Neon) · Alembic · scikit-learn
 
@@ -103,17 +103,17 @@ Proyecto del curso de Inteligencia Artificial I: análisis exploratorio de un da
 ## Actualmente aprendiendo
 
 ```text
-🌐 Desarrollo web (React + Vite)      🗄️ Bases de datos avanzadas
-📡 Telecomunicaciones                 🏗️ Arquitectura de software
-🤖 Inteligencia Artificial            📊 Análisis de datos
-🧩 Machine Learning
+- Desarrollo web (React + Vite)      - Bases de datos avanzadas
+- Telecomunicaciones                 - Arquitectura de software
+- Inteligencia Artificial            - Análisis de datos
+- Machine Learning
 ```
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
-Seguir consolidándome como **desarrollador de software full-stack**, participando en proyectos con impacto real —especialmente para mi universidad y mi región— y profundizando en arquitectura de software e inteligencia artificial aplicada.
+Seguir consolidándome como **desarrollador de software full-stack**, participando en proyectos con impacto real especialmente para mi universidad y mi región y profundizando en arquitectura de software e inteligencia artificial aplicada.
 
 ---
 
@@ -133,6 +133,6 @@ Seguir consolidándome como **desarrollador de software full-stack**, participan
 
 <div align="center">
 
-Gracias por visitar mi perfil — ¡siempre abierto a colaborar en proyectos interesantes!
+Gracias por visitar mi perfil - ¡siempre abierto a colaborar en proyectos interesantes!
 
 </div>
