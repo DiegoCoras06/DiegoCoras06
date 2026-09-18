@@ -1,23 +1,23 @@
-# 👋 Hola, soy Diego Coras
+# Hola, soy Diego Alejandro Coras Bendaño
 
-### 🎓 Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Tecnología
+### Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Tecnología
 
 
-
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, interesado en el desarrollo de software, análisis de datos, inteligencia artificial y tecnologías orientadas a la solución de problemas.
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, interesado en el desarrollo de software.
 
 Me gusta aprender nuevas tecnologías, desarrollar proyectos y transformar ideas en soluciones digitales.
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-* 🎓 Estudiante de Ingeniería de Sistemas - UNSCH
-* 💻 Interesado en desarrollo de software
-* 📊 Interés en análisis y visualización de datos
-* 🤖 Explorando Inteligencia Artificial y Machine Learning
-* 🌱 Actualmente fortaleciendo mis conocimientos en programación
-* 📍 Ayacucho, Perú
+* Estudiante de Ingeniería de Sistemas - UNSCH
+* Interesado en desarrollo de software
+* Interés por aplicar diferentes lenguajes de programación
+* Explorando Inteligencia Artificial y Machine Learning
+* Actualmente fortaleciendo mis conocimientos en programación
+* También en fortalecer mis conocimientos en Desarrollo web y arquitectura de software
+* Ayacucho, Perú
 
 ---
 
@@ -48,9 +48,10 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos y transformar ideas
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
-* Desarrollo de aplicaciones web
+* Desarrollo web
+* Telecomunicaciones
 * Bases de datos
 * Inteligencia Artificial
 * Machine Learning
@@ -59,9 +60,9 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos y transformar ideas
 
 ---
 
-## 💼 Proyectos
+## Proyectos
 
-### 🏫 Sistema de Gestión del Proceso de Admisión UNSCH
+### Sistema de Gestión del Proceso de Admisión UNSCH
 
 Propuesta de solución tecnológica orientada a mejorar y gestionar el proceso de admisión de la Universidad Nacional de San Cristóbal de Huamanga.
 
@@ -69,28 +70,28 @@ Propuesta de solución tecnológica orientada a mejorar y gestionar el proceso d
 
 ---
 
-### 🎵 Análisis de datos de Spotify
+### Análisis de datos de Spotify
 
-Proyecto de análisis de un conjunto de datos de canciones de Spotify, explorando características musicales y técnicas de análisis de datos.
+En el curso de Inteligencia Artificial I estoy realizando el Proyecto de análisis de un conjunto de datos de canciones de Spotify, explorando características musicales y técnicas de análisis de datos.
 
 **Tecnologías:** Python · Pandas · Machine Learning · Visualización de datos
 
 ---
 
-## 📈 Objetivos
+## Objetivos
 
 Mi objetivo es seguir desarrollando mis habilidades en tecnología y participar en proyectos que me permitan aplicar mis conocimientos para crear soluciones útiles e innovadoras.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 Email: [Tu correo electrónico]
 
-💼 LinkedIn: [Tu perfil de LinkedIn]
+LinkedIn: [Diego Alejandro Coras Bendaño]
 
-🐙 GitHub: [DiegoCoras06](https://github.com/DiegoCoras06)
+GitHub: [DiegoCoras06](https://github.com/DiegoCoras06)
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+Gracias por visitar mi perfil.
