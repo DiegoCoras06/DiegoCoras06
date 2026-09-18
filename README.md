@@ -119,14 +119,7 @@ Seguir consolidándome como **desarrollador de software full-stack**, participan
 
 ## Estadísticas de GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoCoras06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCoras06&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoras06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%" />
-
-</div>
+<div align="center"> <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=DiegoCoras06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" /></td> <td><img src="https://streak-stats.demolab.com?user=DiegoCoras06&theme=tokyonight&hide_border=true" alt="GitHub streak" /></td> </tr> </table> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoras06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="60%" /> </div>
 
 ---
 
