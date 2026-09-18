@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Tecnología
 
-<img src="./img/diego.jpg" width="180" alt="Diego Coras">
+
 
 Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, interesado en el desarrollo de software, análisis de datos, inteligencia artificial y tecnologías orientadas a la solución de problemas.
 
